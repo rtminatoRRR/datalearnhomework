@@ -1,2 +1,2 @@
-# This git repository is mine Data Learn homework notebook
+# Learning Data Analytics (BI Engineering)
 Mine Tableau Public: https://public.tableau.com/app/profile/artem.h.
